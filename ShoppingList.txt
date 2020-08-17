@@ -9,3 +9,4 @@ Banana
 cherries
 carrots
 cereal
+chocolate

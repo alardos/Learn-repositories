@@ -10,3 +10,5 @@ cherries
 carrots
 cereal
 watermelon
+chocolate
+

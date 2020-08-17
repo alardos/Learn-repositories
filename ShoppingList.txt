@@ -9,4 +9,6 @@ Banana
 cherries
 carrots
 cereal
+watermelon
 chocolate
+
